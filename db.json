@@ -1,0 +1,208 @@
+{
+  "Products": [
+    {
+      "ProductType": "Fertilisers",
+      "ProductName": "DAP",
+      "ProductImage": "./images/DAP-Front.png",
+      "Price": "1000",
+      "percentage": "10",
+      "kg": "25",
+      "id": 7
+    },
+    {
+      "ProductType": "Seeds",
+      "ProductName": "CHIA SEEDS",
+      "ProductImage": "./images/seed2.jpg",
+      "Price": "2500",
+      "percentage": "20",
+      "kg": "50",
+      "id": 9
+    },
+    {
+      "ProductType": "Seeds",
+      "ProductName": "jwara",
+      "ProductImage": "./images/jwara.webp",
+      "Price": "3000",
+      "percentage": "15",
+      "kg": "1000",
+      "id": 10
+    },
+    {
+      "ProductType": "Pesticides",
+      "ProductName": "Delegate",
+      "ProductImage": "./images/delegate.jpg",
+      "Price": "299",
+      "percentage": "5",
+      "kg": "150g",
+      "id": 11
+    },
+    {
+      "ProductType": "AgriImplements",
+      "ProductName": "Garden Sprayer",
+      "ProductImage": "/images/garden-sprayer.jpg",
+      "Price": "4999",
+      "percentage": "15",
+      "kg": "25",
+      "id": 12
+    },
+    {
+      "ProductType": "Fertilisers",
+      "ProductName": "Bio-NPK Fertilisers",
+      "ProductImage": "./images/Bio-NPK.jpg",
+      "Price": "1000",
+      "percentage": "20",
+      "kg": "250 ",
+      "id": 13
+    },
+    {
+      "ProductType": "Fertilisers",
+      "ProductName": "Urea Fertiliser",
+      "ProductImage": "./images/urea.webp",
+      "Price": "1000",
+      "percentage": "12",
+      "kg": "550",
+      "id": 14
+    },
+    {
+      "ProductType": "Seeds",
+      "ProductName": "Wheet Seeds",
+      "ProductImage": "./images/wheet.jpg",
+      "Price": "5999",
+      "percentage": "10",
+      "kg": "80",
+      "id": 15
+    },
+    {
+      "ProductType": "Pesticides",
+      "ProductName": "Ipl-Dhoom",
+      "ProductImage": "./images/ipl-dhoom.webp",
+      "Price": "1500",
+      "percentage": "15",
+      "kg": "50",
+      "id": 16
+    },
+    {
+      "ProductType": "Pesticides",
+      "ProductName": "Profit",
+      "ProductImage": "./images/Profit.webp",
+      "Price": "999",
+      "percentage": "12",
+      "kg": "120",
+      "id": 17
+    },
+    {
+      "ProductType": "AgriImplements",
+      "ProductName": "Power-Sprayer",
+      "ProductImage": "./images/power-sprayer.jpg",
+      "Price": "2999",
+      "percentage": "15",
+      "kg": "200g",
+      "id": 18
+    }
+  ],
+  "Admin": [
+    {
+      "id": "poojamudadagi123@gmail.com",
+      "password": "36364545"
+    }
+  ],
+  "contact": [
+    {
+      "name": "Pooja Mudadagi",
+      "email": "poojamudadagi123@gmail.com",
+      "phone": "08152099727",
+      "message": "sdfgchjkml,",
+      "id": 1
+    },
+    {
+      "name": "shilpa",
+      "email": "shilpa123@gmail.com",
+      "phone": "08722188206",
+      "message": "vxcvbnm,.",
+      "id": 2
+    },
+    {
+      "name": "Pooja Mudadagi",
+      "email": "poojamudadagi123@gmail.com",
+      "phone": "08152099727",
+      "message": "resd",
+      "id": 3
+    },
+    {
+      "name": "Pooja Mudadagi",
+      "email": "poojamudadagi123@gmail.com",
+      "phone": "08152099727",
+      "message": "want pesticides",
+      "id": 4
+    },
+    {
+      "name": "pooja mudadagi",
+      "email": "poojamudadagi123@gmail.com",
+      "phone": "08152099727",
+      "message": "cvbnm,./",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": "poojasm@gamil.com",
+      "password": "123456"
+    },
+    {
+      "id": "poojamudadagi123@gmail.com",
+      "name": "pooja mudadagi",
+      "password": "114912",
+      "email": "poojamudadagi123@gmail.com",
+      "phone": "8152099727",
+      "country": "",
+      "Address": "green hills colony ganesh nagar kalabugari"
+    },
+    {
+      "id": "pooj",
+      "name": "pooja mudadagi",
+      "password": "123456",
+      "email": "poojamudadagi123@gmail.com",
+      "phone": "08152099727",
+      "country": "",
+      "Address": "green hills colony ganesh nagar kalabugari\ngreen hills colony ganesh nagar kalabugari"
+    },
+    {
+      "id": "pooja05999@gmail.com",
+      "name": "pooja",
+      "password": "1234",
+      "phone": "08152099727",
+      "country": "America",
+      "Address": "Itaga(A)"
+    }
+  ],
+  "buyDetails": [
+    {
+      "ProductType": "Seeds",
+      "ProductName": "CHIA SEEDS",
+      "ProductImage": "./images/seed2.jpg",
+      "Price": "2500",
+      "percentage": "20",
+      "kg": "30",
+      "FullName": "pooja mudadagi",
+      "Email": "poojamudadagi123@gmail.com",
+      "PermanentAddress": "jooo",
+      "Pincode": "585102",
+      "Payment": "Cash On Delivery",
+      "id": 1
+    },
+    {
+      "ProductType": "Seeds",
+      "ProductName": "jawar",
+      "ProductImage": "./images/jwara.webp",
+      "Price": "3000",
+      "percentage": "15",
+      "kg": "80",
+      "FullName": "pooja mudadagi",
+      "Email": "poojamudadagi123@gmail.com",
+      "PermanentAddress": "itaga",
+      "PhoneNumber": "08152099727",
+      "Payment": "",
+      "id": 2
+    }
+  ]
+}
